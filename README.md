@@ -1,4 +1,4 @@
-# Data Science on AWS
+# LLMs on Sagemaker
 
 ## Description
 
